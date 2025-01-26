@@ -17,19 +17,6 @@ A Python-based real-time face recognition system using CNN, OpenCV, and Mediapip
 2. Run `02_face_training.py` to train the model.
 3. Run `03_face_recognition.py` for real-time recognition.
 
-## Folder Structure
-Real-Time-Face-Recognition/
-├── 01_face_dataset.py          # Script to capture face images and create the dataset
-├── 02_face_training.py         # Script to train the CNN model on the dataset
-├── 03_face_recognition.py      # Script to perform real-time face recognition
-├── Dataset Maker.py            # (Optional) Script to augment the dataset with external data
-├── dataset/                    # Folder containing face images and labels
-│   ├── labels.txt              # File mapping user IDs to names
-│   └── User.<ID>.<count>.jpg   # Captured face images for each user
-├── trained_model.h5            # Trained CNN model saved after running the training script
-└── README.md                   # Documentation file for the project
-
-
 To successfully run your Real-Time Face Recognition project, follow these steps and keep these considerations in mind:
 
 ---
