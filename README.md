@@ -17,6 +17,8 @@ A Python-based real-time face recognition system using CNN, OpenCV, and Mediapip
 2. Run `02_face_training.py` to train the model.
 3. Run `03_face_recognition.py` for real-time recognition.
 
+---
+
 To successfully run your Real-Time Face Recognition project, follow these steps and keep these considerations in mind:
 
 ---
