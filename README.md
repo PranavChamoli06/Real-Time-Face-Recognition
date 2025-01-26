@@ -21,7 +21,6 @@ A Python-based real-time face recognition system using CNN, OpenCV, and Mediapip
 
 To successfully run your Real-Time Face Recognition project, follow these steps and keep these considerations in mind:
 
----
 
 ### Step 1: Install the Required Libraries:
 Before running the scripts, ensure you have all necessary libraries installed. Use the following command:
