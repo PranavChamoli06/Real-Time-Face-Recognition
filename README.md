@@ -10,6 +10,8 @@ A Python-based real-time face recognition system using CNN, OpenCV, and Mediapip
 ## Requirements
 - Python 3.7+
 - Libraries: OpenCV, Mediapipe, TensorFlow/Keras, NumPy, Pillow, Scikit-learn
+- pip install opencv-python mediapipe tensorflow keras numpy pillow scikit-learn
+
 
 ## Usage
 1. Run `01_face_dataset.py` to capture face images.
